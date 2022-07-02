@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stepper Motor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
+    <div id= "hdr" class="topnav">
+      <h1 id="Stt">Water And Air Flow Metering</i></h1>
+    </div>
+    <div class="content-1">
+    <p id="p">METERING             <hr>
+    <table>
+    <tr>
+        <td><p><span id="h_span">Water Flow </span></td>
+        <td><span id="water-flow" class="V_span">0.0</span></td>
+        <td><span id="water-total" class="V_span"></span></td>
+    </tr>
+    <tr>
+        <td><p><span id="h_span">Air Flow </span></td>
+        <td><span id="air-flow" class="V_span">0.0</span></td>
+        <td><span id="air-velocity" class="V_span"></span></td>
+    </tr>
+    <tr>
+        <td><p><span id="h_span">Main Flow </span></td>
+        <td><span id="mixed-flow" class="V_span">0.0</span></td>
+        <td><span id="mixed-total" class="V_span"></span></td>
+    </tr>
+    <tr>
+        <td><p><span id="h_span">Actual Water Percantage </span></td>
+        <td><span id="main-flow" class="V_span">0.0</span></td>
+    </tr>
+    <tr>
+        <td><p><span id="h_span">Sensor Water percantage </span></td>
+        <td><span id="SWP" class="V_span">0.0</span></td>
+    </tr>
+</table>
+	<div class="w3-light-grey">
+  	<div id="myBar" color="" class="w3-container z3-green w3-center" style="width:20%">I</div>
+	</div>
+
+<p id="p">CONTROL             <hr>
+</div>
+  <div class="content">
+  <table>
+    <tr>
+        <td><p id="hd"><span >Pump</span></td>
+        <td><p id="hd"><span >Wat Valve</span></td>
+        <td><p id="hd"><span >Fan</span></td>
+        <td><p id="hd"><span >Air Valve</span></td>
+   <!-- <td><p id="hd"><span >LPF</span></td> -->
+        
+    </tr>
+    <tr>
+        <td><button class="button_F" id="Pump" onclick="Pump()" disabled>OFF</button></td>
+        <td><button class="button_F" id="Water_Valve" onclick="Water_Valve()" disabled>OFF</button></td>
+        <td><button class="button_F" id="Fan" onclick="Fan()" disabled>OFF</button></td>
+        <td><button class="button_F" id="Air_Valve" onclick="Air_Valve()" disabled>OFF</button></td>
+        <!-- <td><button class="button_F" id="LPF" onclick="LPF()" disabled>OFF</button></td>  -->
+    </tr>
+
+    </table>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>

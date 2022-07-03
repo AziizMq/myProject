@@ -1,6 +1,6 @@
-﻿# Water Metering Solution 💦 - [Demonstration video][https://www.youtube.com/watch?v=ksbPfUVpSi8] 👋 
+﻿# Water Metering Solution 💦 - [Demonstration video][youtube] 👋 
 
-[![img](https://discord.com/channels/@me/716276517239521280/992932827622559874)][https://www.youtube.com/watch?v=ksbPfUVpSi8]
+[![backgroundImg](./img/background.png)][youtube]
 
 
 
@@ -11,14 +11,14 @@ In this project we address a problem that touches parts of citizens about the co
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCVIea0-0IT5Hl7DjlnI-ssQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCVIea0-0IT5Hl7DjlnI-ssQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)][youtubeChannel]
+[![website](./img/youtube-dark.svg)][youtubeChannel]
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/aziiz_user#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/aziiz_user#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)][twitter]
+[![website](./img/twitter-dark.svg)][twitter]
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdulaziz-alminqah-3354a522a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdulaziz-alminqah-3354a522a/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)][linkedin]
+[![website](./img/linkedin-dark.svg)][linkedin]
 
 
 ### Languages and Tools:
@@ -27,7 +27,7 @@ In this project we address a problem that touches parts of citizens about the co
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="ararduino d" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" style="padding-right:10px;" />]
+[<img align="left" alt="ararduino d" width="26px" src="https://banner2.cleanpng.com/20190302/lh/kisspng-arduino-computer-icons-adafruit-industries-electro-online-store-5c7abe6a31fd12.7005350215515480102048.jpg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
@@ -36,3 +36,8 @@ In this project we address a problem that touches parts of citizens about the co
 
 <br />
 <br />
+
+[youtube]: https://www.youtube.com/watch?v=ksbPfUVpSi8
+[youtubeChannel]: https://www.youtube.com/channel/UCVIea0-0IT5Hl7DjlnI-ssQ
+[twitter]: https://twitter.com/aziiz_user
+[linkedin]: https://www.linkedin.com/in/abdulaziz-alminqah-3354a522a

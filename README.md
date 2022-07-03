@@ -11,33 +11,39 @@ In this project we address a problem that touches parts of citizens about the co
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)][youtubeChannel]
-[![website](./img/youtube-dark.svg)][youtubeChannel]
+[![website](./img/youtube-light.svg)][youtubeChannelW]
+[![website](./img/youtube-dark.svg)][youtubeChannelD]
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)][twitter]
-[![website](./img/twitter-dark.svg)][twitter]
+[![website](./img/twitter-light.svg)][twitterW]
+[![website](./img/twitter-dark.svg)][twitterD]
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)][linkedin]
-[![website](./img/linkedin-dark.svg)][linkedin]
+[![website](./img/linkedin-light.svg)][linkedinW]
+[![website](./img/linkedin-dark.svg)][linkedinD]
 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="ararduino d" width="26px" src="https://banner2.cleanpng.com/20190302/lh/kisspng-arduino-computer-icons-adafruit-industries-electro-online-store-5c7abe6a31fd12.7005350215515480102048.jpg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][samepage]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][samepage]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][samepage]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][samepage]
+[<img align="left" alt="ararduino d" width="26px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" style="padding-right:10px;" />][samepage]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][samepage]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][samepageW]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][samepageD]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />][samepageW]
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][samepageD]
 
 <br />
 <br />
 
 [youtube]: https://www.youtube.com/watch?v=ksbPfUVpSi8
-[youtubeChannel]: https://www.youtube.com/channel/UCVIea0-0IT5Hl7DjlnI-ssQ
-[twitter]: https://twitter.com/aziiz_user
-[linkedin]: https://www.linkedin.com/in/abdulaziz-alminqah-3354a522a
+[youtubeChannelW]: https://www.youtube.com/channel/UCVIea0-0IT5Hl7DjlnI-ssQ#gh-light-mode-only
+[youtubeChannelD]: https://www.youtube.com/channel/UCVIea0-0IT5Hl7DjlnI-ssQ#gh-dark-mode-only
+[twitterW]: https://twitter.com/aziiz_user#gh-light-mode-only
+[twitterD]: https://twitter.com/aziiz_user#gh-dark-mode-only
+[linkedinW]: https://www.linkedin.com/in/abdulaziz-alminqah-3354a522a#gh-light-mode-only
+[linkedinD]: https://www.linkedin.com/in/abdulaziz-alminqah-3354a522a#gh-dark-mode-only
+[samepage]: https://github.com/AziizMq/myProject
+[samepageW]: https://github.com/AziizMq/myProject#gh-light-mode-only
+[samepageD]: https://github.com/AziizMq/myProject#gh-dark-mode-only
